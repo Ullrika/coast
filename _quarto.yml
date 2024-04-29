@@ -26,10 +26,8 @@ website:
         text: Priorities
       - href: pages/visioner.qmd
         text: Visions
-      - href: pages/donavit_ute.qmd
-        text: Donavit outside
-      - href: pages/donavit_inne.qmd
-        text: Donavit inside
+      - href: pages/donavit.qmd
+        text: Donavit
 
 format:
   html:
