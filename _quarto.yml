@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Exhibition"
+  navbar:
+    logo: "img/LundUniversity_C2line_NEG.png"
+    logo-href: "https://www.lunduniversity.lu.se/"
+    background: "#9C6114"
+    foreground: "#000080"
+    pinned: true
+   
+    left:
+      - href: index.qmd
+        text: Introduction
+      - href: pages/kunskaper.qmd
+        text: Knowledges
+      - href: pages/forflutenheter.qmd
+        text: Pasts
+      - href: pages/framtider.qmd
+        text: Futures
+      - href: pages/varden.qmd
+        text: Values
+      - href: pages/prioriteringar.qmd
+        text: Priorities
+      - href: pages/visioner.qmd
+        text: Visions
+      - href: pages/donavit_ute.qmd
+        text: Donavit outside
+      - href: pages/donavit_inne.qmd
+        text: Donavit inside
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+

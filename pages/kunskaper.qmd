@@ -1,0 +1,29 @@
+---
+title: "Coastal perspectives"
+---
+
+# Knowledges
+
+In a changing coastal landscape, insufficient knowledge and narrow perspectives can lead to decisions that solve one problem but create new ones. Expanding harbours provide opportunities for maritime transport but often causes erosion on nearby coastlines. Coastal development meets the demand for attractive housing but can lead to flood risks and the loss of natural and recreational areas. 
+
+For sustainable coastal development, a broad knowledge base and collaboration across diverse scientific disciplines is essential. Geological and historical perspectives, for instance, teach us about how humans have been affected by and managed climate change and natural disasters in the past. Engineering expertise, such as designing coastal protection, must be combined with considerations of landscape features and human needs. 
+
+Social sciences and humanities contribute knowledge on how societies function and how people can be included. Art projects create spaces for alternative ways of viewing problems and solutions, creating platforms for interactions between local authorities, citizens, and science. 
+
+The complexity of coastal issues makes it difficult to apply general knowledge at local level. Therefore, site-specific knowledges and experiences are necessary to make climate adaptation functional, aesthetically appealing, and inclusive.
+
+# Canvas
+
+![Sandhammaren, Skåne. Foto: Henrik Thorén.](../img/kunskap_vepa.jpg)
+
+![Provtagning, Sandhammaren, Skåne. Foto: Åsa Knaggård.](../img/kunskap_liten.jpg)
+
+# Kunskaper
+
+Bristfälliga kunskapsunderlag och snäva perspektiv kan i ett föränderligt kustlandskap leda till beslut som löser ett problem men skapar nya. Utbyggnaden av hamnar ger möjligheter för sjötransport, men orsakar ofta erosionsproblem för den intilliggande kusten. Kustnära exploatering tillgodoser efterfrågan på attraktivt boende, men kan samtidigt leda till översvämningsrisker och förlust av natur- och rekreationsområden.
+
+För en hållbar utveckling av kusten behövs en bred kunskapsbas och samarbeten mellan en mångfald av vetenskaper. Till exempel kan geologiska och historiska perspektiv lära oss om hur människan tidigare påverkats av och hanterat klimatförändringar och naturkatastrofer. Ingenjörskunskaper, som dimensionering av kustskydd, behöver kombineras med design och arkitektur för utformningar som tar hänsyn till landskapets fysiska egenskaper och mänskliga behov.
+
+Samhällsvetenskaper och humaniora kan bidra med kunskap om hur samhället fungerar och hur människor kan inkluderas. Och konstprojekt kan ge utrymme för alternativa sätt att se på problem och lösningar, och skapa plattformar för möten mellan lokala myndigheter, medborgare och vetenskapen.
+
+Kustproblematikens komplexitet gör det svårt att tillämpa generell kunskap på lokal nivå. För att göra klimatanpassningen funktionell, estetiskt tilltalande och inkluderande behövs därför även platsspecifik kunskap och erfarenhet.
