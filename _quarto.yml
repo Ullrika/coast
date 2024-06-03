@@ -6,7 +6,6 @@ website:
   title: "Exhibition"
   navbar:
     logo: "img/LundUniversity_C2line_NEG.png"
-    logo-href: "https://www.lunduniversity.lu.se/"
     background: "#9C6114"
     foreground: "#000080"
     pinned: true
